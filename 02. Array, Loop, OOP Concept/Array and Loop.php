@@ -22,8 +22,8 @@ $students=[];             //Array declearation
 $students[0]="hridoy";
 $students[1]="Susmoy";
 $students[2]="kishor";
-$students[3]="ridn";
-$students[4]="chengu";
+$students[3]="linkon";
+$students[4]="Ripon";
 $students[5]=18;
 
 for ($i=0; $i <6 ; $i++) { 
@@ -51,8 +51,11 @@ echo $B["age"]."<br>";
 echo $C["address"]."<br>";
 echo "<br><br>";
 
-// Associative array er sob value print korar jonno for loop use kora jabe na. cause ekhane index kono numeric value na. 
-//So ekhane Foreach loop use hobe.
+
+
+
+
+// Foreach is used to print all values of the Associative Array.
 
 
 foreach ($B as $key => $value) {
@@ -83,6 +86,8 @@ $students_info=[
 
 
 //2 ta variable use korle key and value both access hobe
+
+
 $i=1;
 foreach($students_info as $ke => $va)
 {
@@ -107,7 +112,7 @@ foreach($students_info as $u)
 
 
 //2D Array
-/*
+
 $G=[
 	[4,5,9,"h"],
 	[6,5,0,9],
@@ -121,33 +126,6 @@ for ($i=0; $i <=2 ; $i++) {
 	}
 	echo "<br>";
 }
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

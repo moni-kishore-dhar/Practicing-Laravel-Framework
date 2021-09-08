@@ -102,7 +102,7 @@ class noble extends book
 
 		
 		$this->title="Default Title for Noble";
-		$this->price="Default Price for Noble";   //it will not work. cause price is private variable in book class
+		$this->price="Default Price for Noble";   //it will not work. cause price is private variable in book class.
 
 
 		echo "<br><br>Constructor has been Created for noble class <br><br>";
@@ -177,11 +177,13 @@ echo "Noble Price: ".$Noble->get_price();
 /*
 
 
-Public varible class er vitore and baire jekunu jayga thekei access kora jay. privacy onk low. 
+There are three access modifiers:
 
-protected variable class er vitore theke access kora jay and oi class er child class (j oi parent class ta ke extends kore oita) thekew access kora jay. but parents and child class er baire kuthaw access kora jay na. prvacy midium.
+public - the property or method can be accessed from everywhere. This is default
+protected - the property or method can be accessed within the class and by classes derived from that class
+private - the property or method can ONLY be accessed within the class
 
-Private variable class er baire kuthaw use kora jay na. even oi class er child class (j oi parent class ta ke extends kore oita) thekew access kora jay na.sudhu class er viotre private variable access kora jay.privacy onk high.
+
 
 
 

@@ -1,3 +1,3 @@
-# 01 (PHP Basic Operation)
+# PHP Basic Operation
 
 Some basic operations

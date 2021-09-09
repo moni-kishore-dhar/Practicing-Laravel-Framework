@@ -2,11 +2,11 @@
 <html>
 
 
-<body style="background-color: #d5d5c3;">
+<body bgcolor="#b3dbff">
 
 
-<h1 style="color: #d5d5c3;">PHP Basic Operation</h1>
-<p style="color: #e69900">Here are some basic operations.</p>
+<h1><font color="#664400">PHP Basic Operation</font></h1>
+<p><font color="#c2c2a3">Here are some basic operations.</font></p>
 
 
 

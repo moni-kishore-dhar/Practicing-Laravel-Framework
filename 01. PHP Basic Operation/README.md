@@ -1,3 +1,14 @@
-# PHP Basic Operation
+<!DOCTYPE html>
+<html>
+<title>PHP Basic Operation</title>
 
-Some basic operations
+<body>
+
+
+
+<p>Some basic operations</p>
+
+
+
+</body>
+</html>

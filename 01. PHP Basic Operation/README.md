@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<title>PHP Basic Operation</title>
+
 
 <body>
 
 
-
+<h1>PHP Basic Operation</h1>
 <p>Some basic operations</p>
 
 

@@ -2,11 +2,11 @@
 <html>
 
 
-<body bgcolor="Aqua">
+<body>
 
 
-<h1><font color="Red">PHP Basic Operation</font></h1>
-<p><font color="Blue">Here are some basic operations.</font></p>
+<h1>PHP Basic Operation</h1>
+<p>Here are some basic operations.</p>
 
 
 

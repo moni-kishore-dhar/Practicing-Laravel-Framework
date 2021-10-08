@@ -7,7 +7,7 @@
   <br><br>
 
   <h3>Screenshots of Tamplate:</h3>
-  <br><br>
+  <br>
   <h4>Home Page:</h4>
   <img src="Screenshots of tamplate/Home.jpg" alt="Image is not available" width="1000" height="1400">
   <br><br>

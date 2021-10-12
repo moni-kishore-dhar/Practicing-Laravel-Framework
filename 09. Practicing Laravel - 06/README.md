@@ -2,8 +2,8 @@
 <html>
 <body>
 
-  <h2>Practicing Laravel - 06</h2><br>
-  <h4>Practicing Migration</h4>
+  <h2>Practicing Laravel - 06</h2>
+  <h4>Practicing Migration:</h4>
   <ul>
     <li><b>Creating table</b></li>
     <li><b>Adding column</b></li>

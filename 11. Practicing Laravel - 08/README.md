@@ -4,10 +4,9 @@
 
   <h2>Practicing Laravel - 08</h2>
   <h3><b>Here, I have practiced the One-to-Many relationship.</b></h3>
-  <br><br>
+  <br>
 
   <h3>Screenshots:</h3>
-  <br>
 
   <h4>Country</h4>
   <table>
@@ -34,7 +33,6 @@
       </td>
     </tr>
   </table>
-  <br>
   <h4>Person</h4>
   <table>
     <tr>
@@ -60,5 +58,6 @@
       </td>
     </tr>
   </table>
+  <br>
 </body>
 </html>
